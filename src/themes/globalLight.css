@@ -1,13 +1,13 @@
 :root {
-    --light-one-color: #21978B;
-    --light-two-color: #FBFBFD;
-    --light-three-color: #4F5665;
-    --light-four-color: #323232;
-    --light-five-color: #141414;
-    --light-six-color: #D4D4D4;
-    --light-seven-color: #F9F9F9;
-    --light-eight-color: #F4F8F5;
-    --light-nine-color: #9A9A9A;
-    --light-ten-color: #000000;
-    --light-eleven-color: #FFFFFF;
+    --global-one-color: #21978B;
+    --global-two-color: #FBFBFD;
+    --global-three-color: #4F5665;
+    --global-four-color: #323232;
+    --global-five-color: #141414;
+    --global-six-color: #D4D4D4;
+    --global-seven-color: #F9F9F9;
+    --global-eight-color: #F4F8F5;
+    --global-nine-color: #9A9A9A;
+    --global-ten-color: #000000;
+    --global-eleven-color: #FFFFFF;
   }
