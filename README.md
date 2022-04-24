@@ -27,7 +27,6 @@ $ npm install
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Adicionar traduções
 - [ ] Implementar testes
 - [ ] Adicionar redux
 - [ ] Adicionar funções da api
