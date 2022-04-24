@@ -17,7 +17,7 @@ Para instalar o projeto, siga estas etapas:
 
 ```
 
-$ git clone
+$ git clone https://github.com/abreujpedro/Chating-app.git
 
 $ npm install
 
