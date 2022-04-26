@@ -31,7 +31,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Adicionar redux
 - [ ] Adicionar funções da api
 - [ ] Adicionar funcionalidade de audio
-- [ ] Adicionar emejois
+- [ ] Adicionar emojois
 - [ ] Adicionar nightmode
 
 ## 🤝 Colaboradores
